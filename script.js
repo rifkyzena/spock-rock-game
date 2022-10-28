@@ -1,4 +1,5 @@
 import { startConfetti, stopConfetti, removeConfetti } from './confetti.js';
+// dari module ini terbitlah webpack, parcel, dsb (bundlers) 
 
 const playerScoreEl = document.getElementById('playerScore');
 const playerChoiceEl = document.getElementById('playerChoice');
