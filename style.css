@@ -53,13 +53,13 @@ h2 {
 
 #player .fa-regular,
 #player .choice {
-  color: dodgerblue;
+  color: #92916B;
   cursor: pointer;
 }
 
 #computer .fa-regular,
 #computer .choice {
-  color: rgb(235, 43, 52);
+  color: #B06681;
 }
 
 #player .fa-regular:last-of-type,
